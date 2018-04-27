@@ -1,0 +1,90 @@
+\begin{thebibliography}{10}
+
+\bibitem{ASH:2013:Online}
+Varios autores.
+\newblock Convolutional neural networks (cnns / convnets).
+\newblock url{http://cs231n.github.io/convolutional-networks/}, 2015.
+
+\bibitem{srBarrientos}
+A~Barrientos, J~del Cerro, P~Guti{\'e}rrez, R~San~Mart{\'\i}n, A~Mart{\'\i}nez,
+  and C~Rossi.
+\newblock Veh{\'\i}culos a{\'e}reos no tripulados para uso civil.
+  tecnolog{\'\i}a y aplicaciones.
+\newblock {\em Universidad polit{\'e}cnica de Madrid, Madrid}, 2007.
+
+\bibitem{bochkarev2017}
+Stanislav Bochkarev.
+\newblock Minimizing turns in single and multi robot coverage path planning.
+\newblock Master's thesis, University of Waterloo, 2017.
+
+\bibitem{carvalho2017s}
+Jo{\~a}o~Pedro Carvalho, Marco~Aur{\'e}lio Juc{\'a}, Alexandre Menezes,
+  Leonardo~Rocha Olivi, Andr{\'e} Luis~Marques Marcato, and Alexandre~Bessa dos
+  Santos.
+\newblock Autonomous uav outdoor flight controlled by an embedded system using
+  odroid and ros.
+\newblock In {\em CONTROLO 2016}, pages 423--437. Springer, 2017.
+
+\bibitem{DiFranco}
+Carmelo Di~Franco and Giorgio Buttazzo.
+\newblock Coverage path planning for uavs photogrammetry with energy and
+  resolution constraints.
+\newblock {\em Journal of Intelligent \& Robotic Systems}, pages 1--18, 2016.
+
+\bibitem{garcia}
+D{\'\i}az Garc{\'\i}a-Cervig{\'o}n and Juan Jos{\'e}.
+\newblock Estudio de {\'\i}ndices de vegetaci{\'o}n a partir de im{\'a}genes
+  a{\'e}reas tomadas desde uas/rpas y aplicaciones de {\'e}stos a la
+  agricultura de precisi{\'o}n.
+\newblock 2015.
+
+\bibitem{gomez2017}
+Juan Irving~Vasquez Gomez, Magdalena~Marciano Melchor, and Juan Carlos~Herrera
+  Lozada.
+\newblock Optimal coverage path planning based on the rotating calipers
+  algorithm.
+\newblock In {\em Mechatronics, Electronics and Automotive Engineering
+  (ICMEAE), 2017 International Conference on}, pages 140--144. IEEE, 2017.
+
+\bibitem{gramajo2017}
+German Gramajo and Praveen Shankar.
+\newblock An efficient energy constraint based uav path planning for search and
+  coverage.
+\newblock {\em International Journal of Aerospace Engineering}, 2017, 2017.
+
+\bibitem{hernandez2017}
+Juan~David Hern{\'a}ndez, Eduard Vidal, Jennifer Greer, Romain Fiasco, Patrick
+  Jaussaud, Marc Carreras, and Rafael Garc{\'\i}a.
+\newblock Auv online mission replanning for gap filling and target inspection.
+\newblock In {\em OCEANS 2017-Aberdeen}, pages 1--4. IEEE, 2017.
+
+\bibitem{hernandez2016}
+Gerardo Hern{\'a}ndez~Hern{\'a}ndez.
+\newblock Aplicaci{\'o}n de redes neuronales para la identificaci{\'o}n de
+  objetos en tiempo real en im{\'a}genes tomadas por un quadrotor.
+\newblock 2016.
+
+\bibitem{jimenez2011}
+Rosas Jim{\'e}nez, Nelson Felipe, et~al.
+\newblock {\em Dise{\~n}o e implementaci{\'o}n de un sistema embebido para la
+  adquisici{\'o}n y transmisi{\'o}n de se{\~n}ales biom{\'e}dicas a trav{\'e}s
+  de la red celular}.
+\newblock PhD thesis, Universidad Nacional de Colombia, 2011.
+
+\bibitem{pereira2014}
+Joao~Ricardo Pereira~Valente.
+\newblock {\em Aerial Coverage Path Planning applied to Mapping}.
+\newblock PhD thesis, Industriales, 2014.
+
+\bibitem{shamos1978}
+Michael~Ian Shamos.
+\newblock Computational geometry.
+\newblock 1978.
+
+\bibitem{torres2016}
+Marina Torres, David~A Pelta, Jos{\'e}~L Verdegay, and Juan~C Torres.
+\newblock Coverage path planning with unmanned aerial vehicles for 3d terrain
+  reconstruction.
+\newblock {\em Expert Systems with Applications}, 55:441--451, 2016.
+
+\end{thebibliography}

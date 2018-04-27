@@ -1,0 +1,30 @@
+\BOOKMARK [0][-]{chapter.1}{Introducci\363n}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Motivaci\363n}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Problema}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{Hip\363tesis}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.4}{Materiales}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.5}{Objetivo General}{chapter.1}% 6
+\BOOKMARK [1][-]{section.1.6}{Objetivos Espec\355ficos}{chapter.1}% 7
+\BOOKMARK [0][-]{chapter.2}{Fundamento Te\363rico}{}% 8
+\BOOKMARK [1][-]{section.2.1}{Veh\355culo a\351reo no tripulado \(VANT\)}{chapter.2}% 9
+\BOOKMARK [1][-]{section.2.2}{Sistema embebido}{chapter.2}% 10
+\BOOKMARK [1][-]{section.2.3}{Cobertura de \341rea}{chapter.2}% 11
+\BOOKMARK [1][-]{section.2.4}{Redes neuronales convolucionadas}{chapter.2}% 12
+\BOOKMARK [1][-]{section.2.5}{Robotic Operating Systems \(ROS\)}{chapter.2}% 13
+\BOOKMARK [0][-]{chapter.3}{Trabajo Relacionado}{}% 14
+\BOOKMARK [1][-]{section.3.1}{Planificaci\363n de rutas para cobertura de pol\355gonos convexos}{chapter.3}% 15
+\BOOKMARK [1][-]{section.3.2}{Planificaci\363n de rutas para la cobertura de pol\355gonos no convexos}{chapter.3}% 16
+\BOOKMARK [2][-]{subsection.3.2.1}{Algoritmos para cobertura \363ptima de pol\355gonos no convexos}{section.3.2}% 17
+\BOOKMARK [2][-]{subsection.3.2.2}{Planificador consciente del consumo de energ\355a del VANT}{section.3.2}% 18
+\BOOKMARK [2][-]{subsection.3.2.3}{Separaci\363n de partes c\363ncavas}{section.3.2}% 19
+\BOOKMARK [2][-]{subsection.3.2.4}{Problema de m\372ltiples rutas}{section.3.2}% 20
+\BOOKMARK [1][-]{section.3.3}{Vuelos aut\363nomos}{chapter.3}% 21
+\BOOKMARK [2][-]{subsection.3.3.1}{Redes neuronales en sistemas embebidos}{section.3.3}% 22
+\BOOKMARK [0][-]{chapter.4}{Planificaci\363n de la ruta de cobertura con VANTs}{}% 23
+\BOOKMARK [1][-]{section.4.1}{Conversi\363n de marcos de referencia}{chapter.4}% 24
+\BOOKMARK [0][-]{chapter.5}{Sistema embebido a bordo del VANT}{}% 25
+\BOOKMARK [1][-]{subsection.5.0.1}{Acoplo de alimentaci\363n para la Raspberry Pi 3}{chapter.5}% 26
+\BOOKMARK [2][-]{subsection.5.0.2}{Acoplamiento completo de la Raspberry y baterias al VANT}{subsection.5.0.1}% 27
+\BOOKMARK [1][-]{section.5.1}{Procesamiento de im\341genes en la Raspberry Pi 3 con OpenCV}{chapter.5}% 28
+\BOOKMARK [0][-]{chapter.6}{Reconocimiento de cactus con redes neuronales}{}% 29
+\BOOKMARK [0][-]{chapter.7}{Conclusiones}{}% 30
